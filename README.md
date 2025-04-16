@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Danielbb14
-- 👀 I’m interested in coding beep boop beep
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning Image analysis and Machine learning MSc at Uppsala University
-- 💞️ I’m looking to collaborate on code beep boop
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: Handwritten letter
 
 <!---
